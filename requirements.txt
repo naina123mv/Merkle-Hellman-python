@@ -1,0 +1,2 @@
+gmpy2==2.0.8
+pkg-resources==0.0.0
